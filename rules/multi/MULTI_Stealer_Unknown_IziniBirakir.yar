@@ -8,7 +8,7 @@ rule MULTI_Stealer_Unknown_IziniBirakir {
         note        = "FAMILLE NAISSANTE : 1 soumission hier, 2 aujourd'hui. Verifier la charge en sandbox."
         yarahub_uuid              = "16593828-be9c-4d2a-b5b7-d209b66d3351"
         yarahub_license           = "CC0 1.0"
-        yarahub_reference_md5     = ""
+        yarahub_reference_md5     = "8114450fe3f5a7121b971779de12179e"
         yarahub_reference_link    = "https://github.com/Marjoriefort/yara-rules"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp  = "TLP:WHITE"
