@@ -1,6 +1,6 @@
 rule MULTI_Dropper_Unknown_GitHubObfuscated_JAR {
     meta:
-        description = "JAR dropper : classes obfusquees a noms random sous com/github/ (densite >= 4) — famille du resolver GitHub"
+        description = "JAR dropper : classes obfusquees a noms random sous com/github/ (densite >= 4) - famille du resolver GitHub"
         author      = "Marjoriefort"
         date        = "2026-09-17"
         reference   = "Veille glissante 2026-09-17_22 / grappe 21 JAR"
