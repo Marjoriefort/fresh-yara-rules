@@ -9,6 +9,7 @@ rule LIN_Dropper_Unknown_Zsh_AES_SplitCmd {
         yarahub_license = "CC0 1.0"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp = "TLP:WHITE"
+        yarahub_reference_md5   = "58d6b34e0269a5f7b2e76be2c1d8f0f4"
         yarahub_reference_link = "https://github.com/Marjoriefort/yara-rules"
     strings:
         $a = "_probe_salt" ascii wide

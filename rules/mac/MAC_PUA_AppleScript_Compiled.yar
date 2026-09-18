@@ -9,6 +9,7 @@ rule MAC_PUA_AppleScript_Compiled {
         yarahub_license = "CC0 1.0"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp = "TLP:WHITE"
+        yarahub_reference_md5   = "c3ddd1095434e7a70ff9d8397ad38299"
         yarahub_reference_link = "https://github.com/Marjoriefort/yara-rules"
     strings:
         $a = "FasdUAS 1.101.10" ascii wide
