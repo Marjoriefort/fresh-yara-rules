@@ -5,7 +5,7 @@ rule LIN_Dropper_Unknown_Zsh_AES_SplitCmd {
         date        = "2026-09-18"
         reference   = "Veille glissante 2026-09-18_08 / cc922fb8"
         confidence  = "high"
-        yarahub_uuid = "26070961-0c49-4229-b5ea-ba00c9af956f" (sera généré)
+        yarahub_uuid = "26070961-0c49-4229-b5ea-ba00c9af956f"
         yarahub_license = "CC0 1.0"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp = "TLP:WHITE"
