@@ -3,6 +3,7 @@ rule LIN_Downloader_Botnet_KernelNames_MultiArch
     meta:
         description = "Downloader botnet ELF multi-archi - binaires deguises en taches kernel Linux, C2 IP en clair"
         author = "Marjoriefort"
+        yarahub_reference_md5 = "609de44ce240cb413e1ec558dc637851"
         date = "2026-09-19"
 
         yarahub_uuid = "608fc3a7-ad45-4e38-92eb-ebfab884429b"
