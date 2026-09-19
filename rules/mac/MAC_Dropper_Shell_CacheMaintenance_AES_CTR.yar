@@ -3,6 +3,7 @@ rule MAC_Dropper_Shell_CacheMaintenance_AES_CTR
     meta:
         description = "macOS fake cache-maintenance dropper - payload AES-128-CTR via openssl, noms de commandes fragmentes"
         author = "Marjoriefort"
+        yarahub_reference_md5 = "a6ba15c7cf3243d71fe6fe3e14e4f740"
         date = "2026-09-19"
         family = "macos-dropper-cachemaintenance"
 
