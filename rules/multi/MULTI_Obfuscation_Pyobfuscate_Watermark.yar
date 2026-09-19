@@ -2,6 +2,7 @@ rule MULTI_Obfuscation_Pyobfuscate_Watermark {
     meta:
         description = "Payload Python obfusque par pyobfuscate.com : filigrane __obfuscated_by__ en base64 dans le CLIENT_CODE"
         author      = "Marjoriefort"
+        yarahub_reference_md5 = "7af59b0d647e83954bd4e7d5e0bcef32"
         date        = "2026-09-19"
         reference   = "Veille glissante-2026-09-19_08 / b9df548d.py"
         confidence  = "medium"
