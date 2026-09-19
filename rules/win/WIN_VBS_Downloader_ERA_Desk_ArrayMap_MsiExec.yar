@@ -3,6 +3,7 @@ rule WIN_VBS_Downloader_ERA_Desk_ArrayMap_MsiExec
     meta:
         description = "VBS downloader genere par ERA DESK - obfuscation array-map, elevation UAC, MSI silencieux depuis le cloud"
         author = "Marjoriefort"
+        yarahub_reference_md5 = "27b11776dc5f81f56f653695019f4fb0"
         date = "2026-09-19"
 
         yarahub_uuid = "1228c860-38a1-4cd0-9ea2-2f247377a5b3"
