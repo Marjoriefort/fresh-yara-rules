@@ -2,6 +2,7 @@ rule MULTI_RAT_Python_Aiohttp_Base64Stub {
     meta:
         description = "RAT Python asynchrone aiohttp embarque dans un stub base64 : CLIENT_CODE/EXECUTABLE_PATH, commandes shell_command/file_data"
         author      = "Marjoriefort"
+        yarahub_reference_md5 = "0ea83b8466201809092e74150e7a7e40"
         date        = "2026-09-19"
         reference   = "Veille glissante-2026-09-19_08 / 0a813de9.py"
         confidence  = "high"
