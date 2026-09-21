@@ -15,6 +15,7 @@ rule MULTI_Sample_Unique_f656b47e_Extrait
         yarahub_license = "CC0 1.0"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp = "TLP:WHITE"
+        yarahub_reference_md5 = "d8029c435c533deebb11bb4fc7d2d780"
         yarahub_reference_link = "https://github.com/Marjoriefort/yara-rules"
     strings:
         $s0 = "almohtraf.exe" ascii
