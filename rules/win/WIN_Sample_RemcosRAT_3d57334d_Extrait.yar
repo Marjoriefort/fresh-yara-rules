@@ -16,6 +16,7 @@ rule WIN_Sample_RemcosRAT_3d57334d_Extrait
         yarahub_license = "CC0 1.0"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp = "TLP:WHITE"
+        yarahub_reference_md5 = "d202087f6b56891459e5ebc791b3c804"
         yarahub_reference_link = "https://github.com/Marjoriefort/yara-rules"
     strings:
         $s0 = "lstRecettes_SelectedIndexChanged" ascii
