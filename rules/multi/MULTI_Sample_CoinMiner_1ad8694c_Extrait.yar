@@ -11,7 +11,6 @@ rule MULTI_Sample_CoinMiner_1ad8694c_Extrait
         etat = "extrait"
         confidence_suggeree = "low"
         source = "forge_miss M3 v1.8.9"
-        malpedia_family = "mul.coinminer"
         yarahub_license = "CC0 1.0"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp = "TLP:WHITE"
