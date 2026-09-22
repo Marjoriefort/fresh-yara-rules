@@ -12,7 +12,7 @@ rule MULTI_Sample_AgentTesla_ed343f78_Extrait
         etat = "extrait"
         confidence_suggeree = "low"
         source = "forge_miss M3 v1.9.17"
-malpedia_family = "agenttesla"
+        malpedia_family = "agenttesla"
         yarahub_license = "CC0 1.0"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp = "TLP:WHITE"
