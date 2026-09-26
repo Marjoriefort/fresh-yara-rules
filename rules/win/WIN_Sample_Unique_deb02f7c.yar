@@ -5,7 +5,7 @@ rule WIN_Sample_Unique_deb02f7c
         description = "Detects Unknown (pe, etat binaire)"
         date = "2026-09-25"
         reference_sha256 = "deb02f7c30d322c2003a0f4e29fbd08f172e8c7fd22b1ca47c6f77ebf1a7b914"
-        yarahub_reference_md5 = "deb02f7c30d322c2003a0f4e29fbd08f1"
+        yarahub_reference_md5 = "0876455207d7f1bbef39ea5b25a183c3"
         yarahub_uuid = "9596f6fb-fa43-4ece-95a1-7e7591aea3d5"
         famille = "unknown"
         famille_source = "inconnue"
