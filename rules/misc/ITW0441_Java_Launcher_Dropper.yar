@@ -8,6 +8,7 @@ rule ITW0441_Java_Launcher_Dropper {
         date = "2026-09-25"
         yarahub_uuid = "b8f878d0-fc9d-4973-9147-05209ecc7f46"
         reference = "audit ITW.0441 2026-09-25"
+        yarahub_reference_md5 = "3ca5f92f3676c3c83f2514ce77476e17"
         yarahub_license = "CC0 1.0"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp = "TLP:WHITE"
