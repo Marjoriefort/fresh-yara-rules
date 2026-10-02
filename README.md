@@ -7,7 +7,7 @@ quotidienne MalwareBazaar / corpus VX-Underground).
 
 ## Statistiques
 
-- **25 règles** actives, chacune issue d'un vrai échantillon sauvage
+- **675 règles** actives, chacune issue d'un vrai échantillon sauvage
 - Forgées sur : downloader botnet (Linux), clipper crypto (Windows DLL),
   kits phishing (web), mods Minecraft soumis en masse (PUA), stealer macOS…
 - Chaque règle est testée contre un corpus de faux positifs avant intégration
